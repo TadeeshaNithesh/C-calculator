@@ -1,4 +1,4 @@
-# C++ -calculator
+# C++ calculator
 This is completely created using C++
 
 # How to use
